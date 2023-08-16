@@ -2,6 +2,18 @@ import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View } from 'react-native';
 
 export default function App() {
+
+	const
+		a = true,
+		b = true,
+		c = true;
+
+	debugger;
+
+	const
+		d = true,
+		e = true;
+
   return (
     <View style={styles.container}>
       <Text>Open up App.js to start working on your app!</Text>
